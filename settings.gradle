@@ -1,0 +1,5 @@
+rootProject.name = 'Audiobreeze 1.0'
+include ':app-remote-lib', ':spotify-api', ':sample-search'
+include ':app'
+include ':auth-lib'
+include ':auth-sample'
